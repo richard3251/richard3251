@@ -1,4 +1,3 @@
-# richard3251
 
 <a href="https://github.com/devxb/gitanimals">
 <img
